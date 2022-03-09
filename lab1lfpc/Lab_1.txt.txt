@@ -1,0 +1,8 @@
+S -> aS
+S -> bD
+S -> fR
+D -> dR
+D -> cD
+R -> bR
+R -> f
+D -> d
