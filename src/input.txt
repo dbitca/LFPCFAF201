@@ -1,5 +1,9 @@
-S -> dB A
-A -> d dS aAdAB
-B -> aC aS AC
-C -> *
-E -> AS
+Vn = S, A, B, C, D
+Vt = a, b, c, d
+S->A
+A->cB
+B->Cd
+C->D
+C->CbD
+D->a
+D->acCd
